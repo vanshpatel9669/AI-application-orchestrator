@@ -1,0 +1,23 @@
+We are hiring an AI/ML Engineer to build intelligent products and internal automation systems.
+
+Responsibilities:
+- Build AI-powered workflows and production-ready applications
+- Design prompt pipelines and agentic systems
+- Integrate LLM APIs into internal tools and user-facing apps
+- Evaluate output quality and improve system reliability
+- Collaborate with product and engineering teams
+
+Required Skills:
+- Python
+- API integration
+- LLM application development
+- Prompt engineering
+- Data processing
+- Git/GitHub
+- Strong communication
+
+Preferred Skills:
+- FastAPI or Streamlit
+- Vector search / RAG
+- Evaluation pipelines
+- Deployment experience
