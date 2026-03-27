@@ -56,7 +56,7 @@ Tech Stack
 Setup Instructions
 
 1. Clone the repo
-git clone https://github.com/your-username/ai-application-orchestrator.git
+git clone https://github.com/vanshpatel9669/AI-application-orchestrator
 cd ai-application-orchestrator
 
 2. Create virtual environment
